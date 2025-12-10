@@ -1,0 +1,5 @@
+{
+  "name": "Benha University Thesis Formatter",
+  "description": "An AI-powered tool to format academic chapters according to Benha University standards, converting raw text into structured Markdown.",
+  "requestFramePermissions": []
+}
